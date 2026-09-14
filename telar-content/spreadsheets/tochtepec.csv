@@ -1,0 +1,7 @@
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,codex-mendoza-fol,0.5,0.5,1,,What is this image?,Let's have a closer look,,,,,,,,
+2,codex-mendoza-fol,0.25597906602136444,0.09911867763589224,7.430083706879997,,What is this?,"This is a place glyph for Tochtepec, a tributary province",,Learn more,tochtepec-learn-more.md,Go deeper,tochtepec-go-deeper.md,,,
+3,codex-mendoza-fol,0.6651975906976785,0.580865341744969,3.583180799999999,,What do these things mean?,"These are 16,000 rubber balls",,,,,,,,
+4,,,,,,Part II,What these things mean,,,,,,,,
+5,hoja295recto,0.5,0.5,1,,Here is a different document,I wonder what it is,,,,,,,,
